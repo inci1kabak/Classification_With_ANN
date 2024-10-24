@@ -13,11 +13,17 @@ Description: The dataset consists of images of various fish species. Each image 
 
 Key Steps
 Data Loading: Images and labels are loaded from the dataset.
+
 Data Preprocessing: Images are resized, normalized, and converted to a numerical format suitable for input into the ANN.
+
 One-Hot Encoding: Labels are encoded using one-hot encoding for multi-class classification.
+
 Model Building: A sequential model is built with several layers, including dropout layers to prevent overfitting.
+
 Model Training: The model is trained on the training set, and its performance is validated on the test set.
+
 Results Visualization: Training and validation loss, as well as accuracy, are plotted to visualize the model's performance.
+
 
 
 
