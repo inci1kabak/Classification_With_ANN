@@ -24,7 +24,13 @@ Model Training: The model is trained on the training set, and its performance is
 
 Results Visualization: Training and validation loss, as well as accuracy, are plotted to visualize the model's performance.
 
+General Observation:
 
+The training accuracy and validation accuracy generally increase with each epoch.
+
+Loss values decrease with each epoch, meaning the model's error is gradually reducing.
+
+The difference between training accuracy and validation accuracy is important for assessing the risk of overfitting. In particular, there are slight drops in validation accuracy during Epoch 7 and Epoch 8, but overall, the model shows good performance.
 
 
 Kaggle Notebook Link : https://www.kaggle.com/code/ncikabak/classification-with-ann
