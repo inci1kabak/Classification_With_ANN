@@ -1,7 +1,7 @@
 # Classification_With_ANN
 Deep Learning Project for AKBANK Deep Learning Bootcamp.
 
-# Project Title :#  
+# Project Title :
 Fish Classification with ANN
 
 Overview
