@@ -1,4 +1,4 @@
-# Classification with ANN
+# Classification with ANN :
 Deep Learning Project for AKBANK Deep Learning Bootcamp.
 
 ![image](https://github.com/user-attachments/assets/0e4741ca-7929-4c2f-8bde-da2a9f78abec)
