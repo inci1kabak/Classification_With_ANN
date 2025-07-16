@@ -28,7 +28,7 @@ Model Training: The model is trained on the training set, and its performance is
 
 Results Visualization: Training and validation loss, as well as accuracy, are plotted to visualize the model's performance.
 
-General Observation:
+#### General Observation:
 
 The training accuracy and validation accuracy generally increase with each epoch.
 
