@@ -8,14 +8,14 @@ Deep Learning Project for AKBANK Deep Learning Bootcamp.
 # Project Title :
 Fish Classification with ANN
 
-Overview
+#### Overview
 This project implements an artificial neural network (ANN) for the classification of fish species using a large-scale fish dataset. The goal is to accurately classify images of fish into different species based on visual features.
 
 Dataset Source: A Large Scale Fish Dataset
 
 Description: The dataset consists of images of various fish species. Each image is labeled with the corresponding species.
 
-Key Steps
+#### Key Steps
 Data Loading: Images and labels are loaded from the dataset.
 
 Data Preprocessing: Images are resized, normalized, and converted to a numerical format suitable for input into the ANN.
